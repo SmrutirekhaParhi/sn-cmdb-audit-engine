@@ -1,1 +1,0 @@
-# sn-cmdb-audit-engine
