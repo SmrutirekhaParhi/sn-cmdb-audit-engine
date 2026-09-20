@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-09-20 17:56:13">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<application_name>CMDB Audit Engine</application_name>
+<application_scope>x_1862569_cmdb_a_0</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description> </description>
+<inserted/>
+<name>CMDB Audit Engine</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>f6650d84832343103740a3d0deaad34c</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>b295cdc4832343103740a3d0deaad3f4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_e30af4cc83af03103740a3d0deaad365</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>create</operation><source_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 17:05:42</sys_created_on><sys_id>e30af4cc83af03103740a3d0deaad365</sys_id><sys_mod_count>0</sys_mod_count><sys_name>incident</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_scope_privilege_e30af4cc83af03103740a3d0deaad365</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 17:05:42</sys_updated_on><target_name>incident</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>800576003</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>03954108832343103740a3d0deaad3ca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff570820000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name>incident</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>270af4cc39af0310f761364506163967</update_guid>
+<update_guid_history>270af4cc39af0310f761364506163967:800576003</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_ebb1bc4c836f03103740a3d0deaad331</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard"><par_dashboard action="INSERT_OR_UPDATE"><active>true</active><base_dashboard/><certified>false</certified><description>Requests for CMDB Audit Engine</description><experience/><grid>48</grid><name>CMDB Audit Engine Requests</name><sys_class_name>par_dashboard</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ebb1bc4c836f03103740a3d0deaad331</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CMDB Audit Engine Requests</sys_name><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_ebb1bc4c836f03103740a3d0deaad331</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:23</sys_updated_on><sys_ux_app_config/><sys_ux_app_route/><sys_ux_macroponent/><sys_ux_screen/><sys_ux_screen_type/></par_dashboard></record_update>]]></payload>
+<payload_hash>1126092320</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>0395cdc4832343103740a3d0deaad3f6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56c840000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name>CMDB Audit Engine Requests</target_name>
+<type>PAR Dashboard</type>
+<update_domain>global</update_domain>
+<update_guid>27b1bc4c9d6f0310a8c9a8c15bf04735</update_guid>
+<update_guid_history>27b1bc4c9d6f0310a8c9a8c15bf04735:1126092320</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_dcb1b84c836f03103740a3d0deaad3fe</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>CS</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>CMDB Audit Engine</name><package_json/><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_1862569_cmdb_a_0</scope><scoped_administration>false</scoped_administration><short_description/><source>x_1862569_cmdb_a_0</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:10</sys_created_on><sys_id>dcb1b84c836f03103740a3d0deaad3fe</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:10</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app><sys_translated_text action="delete_multiple" query="documentkey=dcb1b84c836f03103740a3d0deaad3fe"/></record_update>]]></payload>
+<payload_hash>-906593941</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>0395cdc4832343103740a3d0deaad3fb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff5648a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name>CMDB Audit Engine</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>e4b1f84c226f03103d3e54bce871c53e</update_guid>
+<update_guid_history>e4b1f84c226f03103d3e54bce871c53e:-906593941</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_user_metadata_23b1bc4c836f03103740a3d0deaad358</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><background_color/><cache_expiration_time>0</cache_expiration_time><card_bg_image/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2026-09-20 16:29:23</created_on><dashboard display_value="CMDB Audit Engine Requests">ebb1bc4c836f03103740a3d0deaad331</dashboard><edit_locked/><enable_data_cache>false</enable_data_cache><include_custom_insights>true</include_custom_insights><include_key_contributors>true</include_key_contributors><include_kpi_signals>true</include_kpi_signals><include_predictive_target>true</include_predictive_target><include_predictive_thresholds>true</include_predictive_thresholds><include_process_mining>true</include_process_mining><include_severity>true</include_severity><include_target>true</include_target><include_thresholds>true</include_thresholds><include_trends>true</include_trends><include_widget_notification>true</include_widget_notification><last_deactivated_on/><last_updated_on>2026-09-20 16:29:29</last_updated_on><po_project_id_list/><refresh_information>false</refresh_information><refresh_interval>-1</refresh_interval><requested_by_user/><schedule_repetition>false</schedule_repetition><show_insights_panel>true</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>23b1bc4c836f03103740a3d0deaad358</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_user_metadata_23b1bc4c836f03103740a3d0deaad358</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:29</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user><use_custom_tab_colors>false</use_custom_tab_colors><widgets_margin>$now-global-space--sm</widgets_margin></par_dashboard_user_metadata></record_update>]]></payload>
+<payload_hash>-1808365536</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>0795cdc4832343103740a3d0deaad3f7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56f8a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Metadata</type>
+<update_domain>global</update_domain>
+<update_guid>81c1fc4c3a6f0310d075924c2a8277c4</update_guid>
+<update_guid_history>81c1fc4c3a6f0310d075924c2a8277c4:-1808365536,2fb1bc4c3d6f0310012c822d358d555d:-1926666601</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_help_role_02b17c4c836f03103740a3d0deaad305</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role display_value="x_1862569_cmdb_a_0.agent" name="x_1862569_cmdb_a_0.agent">82b13c4c836f03103740a3d0deaad3e7</role><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:17</sys_created_on><sys_id>02b17c4c836f03103740a3d0deaad305</sys_id><sys_mod_count>0</sys_mod_count><sys_name>82b13c4c836f03103740a3d0deaad3e7</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_embedded_help_role_02b17c4c836f03103740a3d0deaad305</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:17</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+<payload_hash>1435395335</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>0795cdc4832343103740a3d0deaad3fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff565ba0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name>82b13c4c836f03103740a3d0deaad3e7</target_name>
+<type>Embedded Help Role Priority</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_7bb1bc4c836f03103740a3d0deaad3c2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">ffb1bc4c836f03103740a3d0deaad3a1</canvas><component display_value="List">7ff373544303121093711347efb8f23c</component><component_props>{"dataSources":[{"allowRealTime":true,"dataCategories":["trend","group","simple"],"filterQuery":"active=true^active=true","id":"d0c1fc4c836f03103740a3d0deaad328","isDatabaseView":false,"preferredVisualizations":[],"sourceType":"table","tableOrViewName":"x_1862569_cmdb_a_0_request"}],"additionalGroupByConfig":[],"allowAdditionalGroupByPerMetric":false,"componentId":"","contextMenuActions":[],"description":"","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","headingLevel":2,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showAdditionalGroupBySelector":false,"showFilterIcon":true,"showHeaderSeparator":false,"showHeader":true,"showLoadingIndicator":false,"wrapTitle":false,"parFilter":"","parFilterConfig":[],"allowListPagination":true,"columnLimit":0,"limit":10,"maxCharLimit":4000,"columnPreferenceKey":"","bareBorder":false,"wrapCellContent":"useLineBreaksUserPref","showPersonalization":true,"hideDotwalk":false,"showColumnReorder":true,"showColumnGrouping":true,"showColumnResizing":true,"showColumnFiltering":true,"showColumnSorting":true,"followFilters":true,"groupByField":"","showLinks":true,"showViewAll":true,"showInlineEditing":true,"table":"x_1862569_cmdb_a_0_request","headerTitle":"All Active Tasks","columns":"","showRecordCount":true}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7bb1bc4c836f03103740a3d0deaad3c2</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_widget_7bb1bc4c836f03103740a3d0deaad3c2</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-09-20 16:29:26</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>993422706</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>0b95cdc4832343103740a3d0deaad3f8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56dbc0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>14c1fc4c2c6f0310fd209af1c3d0c52c</update_guid>
+<update_guid_history>14c1fc4c2c6f0310fd209af1c3d0c52c:993422706,3bb1bc4c716f03108d3ce5974a6d50c4:-1017688832</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_f7b1bc4c836f03103740a3d0deaad3bb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">ffb1bc4c836f03103740a3d0deaad3a1</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"CMDB Audit Engine Request","sourceType":"table","tableOrViewName":"x_1862569_cmdb_a_0_request","filterQuery":"active=true^assigned_toISEMPTY","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwMTkxOTM=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unassigned Open Requests","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwMTkxOTM=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGt3TVRreE9UTT0xNzAwMTQ5MDIwMzA2","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"dee19bvq","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f7b1bc4c836f03103740a3d0deaad3bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_widget_f7b1bc4c836f03103740a3d0deaad3bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:24</sys_updated_on><visualization/><w>16</w><widget_props/><x>16</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>-1687697664</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>0f95cdc4832343103740a3d0deaad3f9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56d8b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>b7b1bc4c696f031012041b271cb00cbd</update_guid>
+<update_guid_history>b7b1bc4c696f031012041b271cb00cbd:-1687697664</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_applicability_m2m_list_1bb1bc4c836f03103740a3d0deaad32d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="CMDB Audit Engine Audience">0fb17c4c836f03103740a3d0deaad3c5</applicability><list display_value="All">9bb1bc4c836f03103740a3d0deaad31d</list><order>0</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:22</sys_created_on><sys_id>1bb1bc4c836f03103740a3d0deaad32d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_1bb1bc4c836f03103740a3d0deaad32d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:22</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+<payload_hash>889039329</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>13954108832343103740a3d0deaad3cf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff569b60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name/>
+<type>List Applicability</type>
+<update_domain>global</update_domain>
+<update_guid>d3b1bc4cf26f0310b16e0b371429e72f</update_guid>
+<update_guid_history>d3b1bc4cf26f0310b16e0b371429e72f:889039329</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_6ab17c4c836f03103740a3d0deaad342</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_1862569_cmdb_a_0_request</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:19</sys_created_on><sys_id>6ab17c4c836f03103740a3d0deaad342</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1862569_cmdb_a_0_request</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_security_acl_6ab17c4c836f03103740a3d0deaad342</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:19</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1806370528</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>17954108832343103740a3d0deaad3cb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff566ab0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>x_1862569_cmdb_a_0_request</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>22b17c4cfd6f0310f74759ddc1053e46</update_guid>
+<update_guid_history>22b17c4cfd6f0310f74759ddc1053e46:-1806370528</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_list_9fb1bc4c836f03103740a3d0deaad316</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list"><sys_ux_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="CMDB Audit Engine Requests">8fb17c4c836f03103740a3d0deaad3be</category><columns>number,priority,state,assigned_to,short_description,sys_class_name</columns><condition table="x_1862569_cmdb_a_0_request">active=false^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><configuration display_value="Creator Studio Workspace">ae8cff95779a311055f78f71ef5a99a6</configuration><enable_infinite_scroll>false</enable_infinite_scroll><fixed_query/><group_by_column/><groups/><hide_cell_filter>false</hide_cell_filter><hide_checkbox_hover>true</hide_checkbox_hover><hide_column_filtering>false</hide_column_filtering><hide_column_grouping>false</hide_column_grouping><hide_column_resizing>false</hide_column_resizing><hide_column_sorting>false</hide_column_sorting><hide_drag_and_drop>true</hide_drag_and_drop><hide_empty_state_image>false</hide_empty_state_image><hide_first_page>false</hide_first_page><hide_header>false</hide_header><hide_highlight_content>false</hide_highlight_content><hide_highlighted_values>false</hide_highlighted_values><hide_inline_editing>false</hide_inline_editing><hide_last_page>false</hide_last_page><hide_last_refreshed_text>false</hide_last_refreshed_text><hide_links>false</hide_links><hide_list_actions>false</hide_list_actions><hide_menu_button>false</hide_menu_button><hide_next_page>false</hide_next_page><hide_option_to_save_as>false</hide_option_to_save_as><hide_pages>false</hide_pages><hide_pagination>false</hide_pagination><hide_panel_advanced>false</hide_panel_advanced><hide_panel_button>false</hide_panel_button><hide_panel_condition_delete>false</hide_panel_condition_delete><hide_panel_footer>false</hide_panel_footer><hide_panel_restore>false</hide_panel_restore><hide_personalization>false</hide_personalization><hide_previous_page>false</hide_previous_page><hide_quick_edit>true</hide_quick_edit><hide_range>false</hide_range><hide_record_count_badge>false</hide_record_count_badge><hide_reference_links>false</hide_reference_links><hide_refresh_button>false</hide_refresh_button><hide_row_count>false</hide_row_count><hide_row_selector>false</hide_row_selector><hide_rows_per_page_selector>false</hide_rows_per_page_selector><hide_select_all>false</hide_select_all><hide_sharing_button>false</hide_sharing_button><hide_title>false</hide_title><highlight_content_color/><highlight_content_pattern/><list_attributes/><live_updates>off</live_updates><max_characters>4000</max_characters><order>300</order><override_word_wrap_user_pref>false</override_word_wrap_user_pref><roles/><sys_class_name>sys_ux_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9fb1bc4c836f03103740a3d0deaad316</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Closed</sys_name><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_ux_list_9fb1bc4c836f03103740a3d0deaad316</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:22</sys_updated_on><table>x_1862569_cmdb_a_0_request</table><title>Closed</title><view/><word_wrap>false</word_wrap></sys_ux_list></record_update>]]></payload>
+<payload_hash>1463405983</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>17954108832343103740a3d0deaad3d0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56a890000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>Closed</target_name>
+<type>UX List</type>
+<update_domain>global</update_domain>
+<update_guid>dbb1bc4c316f03101a1e52ea44e96a18</update_guid>
+<update_guid_history>dbb1bc4c316f03101a1e52ea44e96a18:1463405983</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_aab17c4c836f03103740a3d0deaad347</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:19</sys_created_on><sys_id>aab17c4c836f03103740a3d0deaad347</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1862569_cmdb_a_0_request.x_1862569_cmdb_a_0.agent</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_security_acl display_value="x_1862569_cmdb_a_0_request">6ab17c4c836f03103740a3d0deaad342</sys_security_acl><sys_update_name>sys_security_acl_role_aab17c4c836f03103740a3d0deaad347</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:19</sys_updated_on><sys_user_role display_value="x_1862569_cmdb_a_0.agent" name="x_1862569_cmdb_a_0.agent">82b13c4c836f03103740a3d0deaad3e7</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1072787797</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>1b954108832343103740a3d0deaad3cc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff567b10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>x_1862569_cmdb_a_0_request.x_1862569_cmdb_a_0.agent</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>aab17c4c0c6f03108b689ece04ca3e4b</update_guid>
+<update_guid_history>aab17c4c0c6f03108b689ece04ca3e4b:-1072787797</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_30b1f84c836f03103740a3d0deaad3c0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_1862569_cmdb_a_0_request</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:12</sys_created_on><sys_id>30b1f84c836f03103740a3d0deaad3c0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1862569_cmdb_a_0_request</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>ua_table_licensing_config_30b1f84c836f03103740a3d0deaad3c0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:12</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-1541239930</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>1b954108832343103740a3d0deaad3d1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff5656b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name>x_1862569_cmdb_a_0_request</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_contains_62b17c4c836f03103740a3d0deaad35b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="sn_creatorstudio.basic_fulfiller" name="sn_creatorstudio.basic_fulfiller">13a86cffc76042102208c8d6f2c260a3</contains><role display_value="x_1862569_cmdb_a_0.agent" name="x_1862569_cmdb_a_0.agent">82b13c4c836f03103740a3d0deaad3e7</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:19</sys_created_on><sys_id>62b17c4c836f03103740a3d0deaad35b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_creatorstudio.basic_fulfiller.x_1862569_cmdb_a_0.agent</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_user_role_contains_62b17c4c836f03103740a3d0deaad35b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:19</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+<payload_hash>-1197040540</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>1f954108832343103740a3d0deaad3cd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff5665e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name>sn_creatorstudio.basic_fulfiller.x_1862569_cmdb_a_0.agent</target_name>
+<type>Contained Role</type>
+<update_domain>global</update_domain>
+<update_guid>2eb17c4c6b6f03107f0f07d433dd2561</update_guid>
+<update_guid_history>2eb17c4c6b6f03107f0f07d433dd2561:-1197040540</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_fbb1bc4c836f03103740a3d0deaad3a5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="DELETE"><canvas display_value="">ffb1bc4c836f03103740a3d0deaad3a1</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"CMDB Audit Engine Request","sourceType":"table","tableOrViewName":"x_1862569_cmdb_a_0_request","filterQuery":"active=true","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Open Requests","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGc1TVRjNU1UWT0xNzAwMTQ4OTE5MDAz","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"a6ukoq1r","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fbb1bc4c836f03103740a3d0deaad3a5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_widget_fbb1bc4c836f03103740a3d0deaad3a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:24</sys_updated_on><visualization/><w>16</w><widget_props/><x>0</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>1029941648</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>4395cdc4832343103740a3d0deaad3fa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56e4a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>7cc1fc4c616f03104bcb9fa428804da9</update_guid>
+<update_guid_history>7cc1fc4c616f03104bcb9fa428804da9:1029941648,37b1bc4ce46f031041c0eb7920d870aa:-942812132</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_c243744083af03103740a3d0deaad330</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_1862569_cmdb_a_0.CMDBCleanupUtils&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;mobile_callable&gt;false&lt;/mobile_callable&gt;&lt;name&gt;CMDBCleanupUtils&lt;/name&gt;&lt;sandbox_callable&gt;false&lt;/sandbox_callable&gt;&lt;script&gt;&lt;![CDATA[var CMDBCleanupUtils = Class.create();
+CMDBCleanupUtils.prototype = {
+    initialize: function() {
+    },
+
+    findDuplicateSerialNumbers: function() {
+        var duplicateGroups = 0;
+        
+        // 1. Using GlideAggregate for performance
+        var ga = new GlideAggregate('cmdb_ci_computer');
+        ga.addNotNullQuery('serial_number'); // Ignore empty serials
+        ga.addAggregate('COUNT');
+        ga.groupBy('serial_number');
+        ga.query();
+
+        // 2. Evaluating the count
+        while (ga.next()) {
+            var count = ga.getAggregate('COUNT');
+            
+            if (count &gt; 1) {
+                var serial = ga.getValue('serial_number');
+                this._logIncident(serial, count);
+                duplicateGroups++;
+            }
+        }
+        
+        return "Audit complete. Created incidents for " + duplicateGroups + " duplicate groups.";
+    },
+
+    _logIncident: function(serialNumber, count) {
+		
+        // 3. Auto-generate the Incident
+        var inc = new GlideRecord('incident');
+        inc.initialize();
+        inc.short_description = "CMDB Governance Alert: " + count + " duplicates found for Serial Number " + serialNumber;
+        inc.description = "Automated CMDB Audit detected multiple Computer CIs sharing the exact same serial number. Please investigate and merge/retire the duplicates.";
+        inc.category = "hardware";
+        inc.impact = 2;
+        inc.urgency = 2;
+        inc.insert();
+    },
+
+    type: 'CMDBCleanupUtils'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-20 16:40:13&lt;/sys_created_on&gt;&lt;sys_id&gt;c243744083af03103740a3d0deaad330&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;CMDBCleanupUtils&lt;/sys_name&gt;&lt;sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0"&gt;dcb1b84c836f03103740a3d0deaad3fe&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CMDB Audit Engine"&gt;dcb1b84c836f03103740a3d0deaad3fe&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_c243744083af03103740a3d0deaad330&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-20 16:40:13&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1459035221</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>47954108832343103740a3d0deaad3ca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff5700a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name>CMDBCleanupUtils</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>5e34f0c00daf031079fad6b9fba113b1</update_guid>
+<update_guid_history>5e34f0c00daf031079fad6b9fba113b1:-1459035221</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_permission_41c1fc4c836f03103740a3d0deaad3bb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>false</can_share><can_write>false</can_write><dashboard display_value="CMDB Audit Engine Requests">ebb1bc4c836f03103740a3d0deaad331</dashboard><group/><owner>false</owner><role display_value="x_1862569_cmdb_a_0.agent" name="x_1862569_cmdb_a_0.agent">82b13c4c836f03103740a3d0deaad3e7</role><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>41c1fc4c836f03103740a3d0deaad3bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ebb1bc4c836f03103740a3d0deaad331</sys_name><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_permission_41c1fc4c836f03103740a3d0deaad3bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:29</sys_updated_on><user/></par_dashboard_permission></record_update>]]></payload>
+<payload_hash>-1082487572</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>4795cdc4832343103740a3d0deaad3f6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56fd20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name>ebb1bc4c836f03103740a3d0deaad331</target_name>
+<type>PAR Dashboard Permission</type>
+<update_domain>global</update_domain>
+<update_guid>89c1fc4cb76f031059d82c3757838abd</update_guid>
+<update_guid_history>89c1fc4cb76f031059d82c3757838abd:-1082487572</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_68b1f84c836f03103740a3d0deaad35c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>true</delete_access><filter_extension/><is_df_table>false</is_df_table><is_extendable>false</is_extendable><label>CMDB Audit Engine Request</label><live_feed_enabled>false</live_feed_enabled><name>x_1862569_cmdb_a_0_request</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Request Task" name="sn_creatorstudio_task">5926ce57839b03103740a3d0deaad3bc</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:11</sys_created_on><sys_id>68b1f84c836f03103740a3d0deaad35c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CMDB A 0 Request</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_db_object_68b1f84c836f03103740a3d0deaad35c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:11</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-1607048069</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>4795cdc4832343103740a3d0deaad3fb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff565290000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>CMDB Audit Engine Request</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>45b1f84c796f03104d846759d77803c7</update_guid>
+<update_guid_history>45b1f84c796f03104d846759d77803c7:-1607048069</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_visibility_fcc1fc4c836f03103740a3d0deaad3b4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility"><par_dashboard_visibility action="INSERT_OR_UPDATE"><dashboard display_value="CMDB Audit Engine Requests">ebb1bc4c836f03103740a3d0deaad331</dashboard><experience display_value="Request App Workspace">53ba520177d2311055f78f71ef5a99e8</experience><sys_class_name>par_dashboard_visibility</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fcc1fc4c836f03103740a3d0deaad3b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_visibility_fcc1fc4c836f03103740a3d0deaad3b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:29</sys_updated_on></par_dashboard_visibility></record_update>]]></payload>
+<payload_hash>-1720211876</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>4b95cdc4832343103740a3d0deaad3f7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56fee0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Visibility</type>
+<update_domain>global</update_domain>
+<update_guid>85c1fc4c9e6f03102439a7fede87b8b8</update_guid>
+<update_guid_history>85c1fc4c9e6f03102439a7fede87b8b8:-1720211876</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_6fb1bc4c836f03103740a3d0deaad35f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_metadata_link"&gt;&lt;sys_metadata_link action="INSERT_OR_UPDATE"&gt;&lt;directory&gt;update&lt;/directory&gt;&lt;documentkey&gt;23b1bc4c836f03103740a3d0deaad358&lt;/documentkey&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="par_dashboard_user_metadata"&gt;&lt;par_dashboard_user_metadata action="INSERT_OR_UPDATE"&gt;&lt;background_color/&gt;&lt;cache_expiration_time&gt;0&lt;/cache_expiration_time&gt;&lt;card_bg_image/&gt;&lt;created_by_user display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/created_by_user&gt;&lt;created_on&gt;2026-09-20 16:29:23&lt;/created_on&gt;&lt;dashboard display_value="CMDB Audit Engine Requests"&gt;ebb1bc4c836f03103740a3d0deaad331&lt;/dashboard&gt;&lt;edit_locked/&gt;&lt;enable_data_cache&gt;false&lt;/enable_data_cache&gt;&lt;include_custom_insights&gt;true&lt;/include_custom_insights&gt;&lt;include_key_contributors&gt;true&lt;/include_key_contributors&gt;&lt;include_kpi_signals&gt;true&lt;/include_kpi_signals&gt;&lt;include_predictive_target&gt;true&lt;/include_predictive_target&gt;&lt;include_predictive_thresholds&gt;true&lt;/include_predictive_thresholds&gt;&lt;include_process_mining&gt;true&lt;/include_process_mining&gt;&lt;include_severity&gt;true&lt;/include_severity&gt;&lt;include_target&gt;true&lt;/include_target&gt;&lt;include_thresholds&gt;true&lt;/include_thresholds&gt;&lt;include_trends&gt;true&lt;/include_trends&gt;&lt;include_widget_notification&gt;true&lt;/include_widget_notification&gt;&lt;last_deactivated_on/&gt;&lt;last_updated_on&gt;2026-09-20 16:29:23&lt;/last_updated_on&gt;&lt;po_project_id_list/&gt;&lt;refresh_information&gt;false&lt;/refresh_information&gt;&lt;refresh_interval/&gt;&lt;requested_by_user/&gt;&lt;schedule_repetition&gt;false&lt;/schedule_repetition&gt;&lt;show_insights_panel&gt;true&lt;/show_insights_panel&gt;&lt;sys_class_name&gt;par_dashboard_user_metadata&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-20 16:29:23&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;23b1bc4c836f03103740a3d0deaad358&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0"&gt;dcb1b84c836f03103740a3d0deaad3fe&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CMDB Audit Engine"&gt;dcb1b84c836f03103740a3d0deaad3fe&lt;/sys_scope&gt;&lt;sys_update_name&gt;par_dashboard_user_metadata_23b1bc4c836f03103740a3d0deaad358&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-20 16:29:23&lt;/sys_updated_on&gt;&lt;updated_by_user display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/updated_by_user&gt;&lt;use_custom_tab_colors&gt;false&lt;/use_custom_tab_colors&gt;&lt;widgets_margin&gt;$now-global-space--sm&lt;/widgets_margin&gt;&lt;/par_dashboard_user_metadata&gt;&lt;/record_update&gt;]]&gt;&lt;/payload&gt;&lt;sys_class_name&gt;sys_metadata_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-20 16:29:23&lt;/sys_created_on&gt;&lt;sys_id&gt;6fb1bc4c836f03103740a3d0deaad35f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0"&gt;dcb1b84c836f03103740a3d0deaad3fe&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CMDB Audit Engine"&gt;dcb1b84c836f03103740a3d0deaad3fe&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_metadata_link_6fb1bc4c836f03103740a3d0deaad35f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-20 16:29:23&lt;/sys_updated_on&gt;&lt;tablename&gt;par_dashboard_user_metadata&lt;/tablename&gt;&lt;/sys_metadata_link&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-79067644</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>4b95cdc4832343103740a3d0deaad3fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56c4b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name/>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_guid>63b1bc4cdb6f031092ba9500e155ad63</update_guid>
+<update_guid_history>63b1bc4cdb6f031092ba9500e155ad63:-79067644</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_bbb1bc4c836f03103740a3d0deaad3af</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="DELETE"><canvas display_value="">ffb1bc4c836f03103740a3d0deaad3a1</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"CMDB Audit Engine Request","sourceType":"table","tableOrViewName":"x_1862569_cmdb_a_0_request","filterQuery":"active=false^closed_atBETWEENjavascript:gs.beginningOfLast30Days()@javascript:gs.endOfToday()","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwNjIxNDU=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Closed Last 30 Days","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwNjIxNDU=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGt3TmpJeE5EVT0xNzAwMTQ5MDYzMjQz","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"8x2fbils","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bbb1bc4c836f03103740a3d0deaad3af</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_widget_bbb1bc4c836f03103740a3d0deaad3af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:24</sys_updated_on><visualization/><w>16</w><widget_props/><x>32</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>-761316331</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>4f95cdc4832343103740a3d0deaad3f8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56e160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>24c1fc4cdd6f031095e87fb28a463f8a</update_guid>
+<update_guid_history>24c1fc4cdd6f031095e87fb28a463f8a:-761316331,7bb1bc4caf6f031040dbd70a683372b1:1595942665</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_applicability_0fb17c4c836f03103740a3d0deaad3c5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_1862569_cmdb_a_0.CMDB Audit Engine Audience</api_name><description/><name>CMDB Audit Engine Audience</name><role_names/><roles name="x_1862569_cmdb_a_0.agent">82b13c4c836f03103740a3d0deaad3e7</roles><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0fb17c4c836f03103740a3d0deaad3c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CMDB Audit Engine Audience</sys_name><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_ux_applicability_0fb17c4c836f03103740a3d0deaad3c5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:21</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+<payload_hash>1268715875</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>53954108832343103740a3d0deaad3ce</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff5687d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name>CMDB Audit Engine Audience</target_name>
+<type>Audience</type>
+<update_domain>global</update_domain>
+<update_guid>8bb17c4c806f03105915cc7d3c54bec9</update_guid>
+<update_guid_history>8bb17c4c806f03105915cc7d3c54bec9:1268715875</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_applicability_m2m_list_57b1bc4c836f03103740a3d0deaad31a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="CMDB Audit Engine Audience">0fb17c4c836f03103740a3d0deaad3c5</applicability><list display_value="Closed">9fb1bc4c836f03103740a3d0deaad316</list><order>0</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:22</sys_created_on><sys_id>57b1bc4c836f03103740a3d0deaad31a</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_57b1bc4c836f03103740a3d0deaad31a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:22</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+<payload_hash>1162106572</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>57954108832343103740a3d0deaad3cf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff569e40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name/>
+<type>List Applicability</type>
+<update_domain>global</update_domain>
+<update_guid>13b1bc4c476f0310c97f842d2b96861c</update_guid>
+<update_guid_history>13b1bc4c476f0310c97f842d2b96861c:1162106572</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_aab17c4c836f03103740a3d0deaad34d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_1862569_cmdb_a_0_request</name><operation display_value="report_view">0997ab83733303005978e4b9cdf6a7b9</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:19</sys_created_on><sys_id>aab17c4c836f03103740a3d0deaad34d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1862569_cmdb_a_0_request</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_security_acl_aab17c4c836f03103740a3d0deaad34d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:19</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>29026771</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>5b954108832343103740a3d0deaad3cb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff567f30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>x_1862569_cmdb_a_0_request</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>62b17c4cba6f03101fa68c48cc67a951</update_guid>
+<update_guid_history>62b17c4cba6f03101fa68c48cc67a951:29026771</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_list_category_8fb17c4c836f03103740a3d0deaad3be</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category"><sys_ux_list_category action="INSERT_OR_UPDATE"><active>true</active><configuration display_value="Creator Studio Workspace">ae8cff95779a311055f78f71ef5a99a6</configuration><description/><order>100</order><sys_class_name>sys_ux_list_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8fb17c4c836f03103740a3d0deaad3be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CMDB Audit Engine Requests</sys_name><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_ux_list_category_8fb17c4c836f03103740a3d0deaad3be</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:21</sys_updated_on><title>CMDB Audit Engine Requests</title></sys_ux_list_category></record_update>]]></payload>
+<payload_hash>433133782</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>5b954108832343103740a3d0deaad3d0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff569270000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name>CMDB Audit Engine Requests</target_name>
+<type>UX List Category</type>
+<update_domain>global</update_domain>
+<update_guid>4bb17c4cbf6f031002b502b1e296e7c2</update_guid>
+<update_guid_history>4bb17c4cbf6f031002b502b1e296e7c2:433133782</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_eab17c4c836f03103740a3d0deaad352</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:19</sys_created_on><sys_id>eab17c4c836f03103740a3d0deaad352</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1862569_cmdb_a_0_request.x_1862569_cmdb_a_0.agent</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_security_acl display_value="x_1862569_cmdb_a_0_request">aab17c4c836f03103740a3d0deaad34d</sys_security_acl><sys_update_name>sys_security_acl_role_eab17c4c836f03103740a3d0deaad352</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:19</sys_updated_on><sys_user_role display_value="x_1862569_cmdb_a_0.agent" name="x_1862569_cmdb_a_0.agent">82b13c4c836f03103740a3d0deaad3e7</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1780000420</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>5f954108832343103740a3d0deaad3cc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff568320000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>x_1862569_cmdb_a_0_request.x_1862569_cmdb_a_0.agent</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>eab17c4c846f0310f3a0c4df4148b056</update_guid>
+<update_guid_history>eab17c4c846f0310f3a0c4df4148b056:1780000420</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_bfb1bc4c836f03103740a3d0deaad3b7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">ffb1bc4c836f03103740a3d0deaad3a1</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"CMDB Audit Engine Request","sourceType":"table","tableOrViewName":"x_1862569_cmdb_a_0_request","filterQuery":"active=true","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Open Requests","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGc1TVRjNU1UWT0xNzAwMTQ4OTE5MDAz","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"a6ukoq1r","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bfb1bc4c836f03103740a3d0deaad3b7</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_widget_bfb1bc4c836f03103740a3d0deaad3b7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:24</sys_updated_on><visualization/><w>16</w><widget_props/><x>0</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>-942812132</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>8395cdc4832343103740a3d0deaad3f9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56d3a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>7fb1bc4c456f0310547fe95a800ce9b9</update_guid>
+<update_guid_history>7fb1bc4c456f0310547fe95a800ce9b9:-942812132</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_1f0ab4cc83af03103740a3d0deaad3f7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 17:05:42</sys_created_on><sys_id>1f0ab4cc83af03103740a3d0deaad3f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cmdb_ci_computer</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_scope_privilege_1f0ab4cc83af03103740a3d0deaad3f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 17:05:42</sys_updated_on><target_name>cmdb_ci_computer</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>-83595969</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>87954108832343103740a3d0deaad3c9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff570450000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name>cmdb_ci_computer</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>af0ab4cc7caf0310c7d208d9908187fb</update_guid>
+<update_guid_history>af0ab4cc7caf0310c7d208d9908187fb:-83595969</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sn_creatorstudio_request_app_config_b6b17c4c836f03103740a3d0deaad375</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_creatorstudio_request_app_config"><sn_creatorstudio_request_app_config action="INSERT_OR_UPDATE"><color>grouped-blue</color><icon>vacation-outline</icon><is_deleting>false</is_deleting><name>CMDB Audit Engine</name><request_table>x_1862569_cmdb_a_0_request</request_table><sys_class_name>sn_creatorstudio_request_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:20</sys_created_on><sys_id>b6b17c4c836f03103740a3d0deaad375</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CMDB Audit Engine</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sn_creatorstudio_request_app_config_b6b17c4c836f03103740a3d0deaad375</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:20</sys_updated_on></sn_creatorstudio_request_app_config></record_update>]]></payload>
+<payload_hash>1386468050</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>8795cdc4832343103740a3d0deaad3fa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff568530000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name>CMDB Audit Engine</target_name>
+<type>Request App Config</type>
+<update_domain>global</update_domain>
+<update_guid>beb17c4c6d6f031058c425318fab2d78</update_guid>
+<update_guid_history>beb17c4c6d6f031058c425318fab2d78:1386468050</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_2ab17c4c836f03103740a3d0deaad337</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_1862569_cmdb_a_0_request</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:19</sys_created_on><sys_id>2ab17c4c836f03103740a3d0deaad337</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1862569_cmdb_a_0_request</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_security_acl_2ab17c4c836f03103740a3d0deaad337</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:19</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1025661250</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>8b954108832343103740a3d0deaad3ca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff566400000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>x_1862569_cmdb_a_0_request</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>eeb17c4cc16f0310617e6af23f3d053a</update_guid>
+<update_guid_history>eeb17c4cc16f0310617e6af23f3d053a:-1025661250</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_permission_63b1bc4c836f03103740a3d0deaad337</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="CMDB Audit Engine Requests">ebb1bc4c836f03103740a3d0deaad331</dashboard><group/><owner>true</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>63b1bc4c836f03103740a3d0deaad337</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ebb1bc4c836f03103740a3d0deaad331</sys_name><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_permission_63b1bc4c836f03103740a3d0deaad337</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:23</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+<payload_hash>861537481</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>8b95cdc4832343103740a3d0deaad3f6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56bc10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name>ebb1bc4c836f03103740a3d0deaad331</target_name>
+<type>PAR Dashboard Permission</type>
+<update_domain>global</update_domain>
+<update_guid>e3b1bc4ce56f03102586686518ef5656</update_guid>
+<update_guid_history>e3b1bc4ce56f03102586686518ef5656:861537481</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_1862569_cmdb_a_0_request_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sn_creatorstudio_task" table="x_1862569_cmdb_a_0_request"><active>true</active><array>false</array><attributes/><audit>true</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_1862569_cmdb_a_0_request</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:12</sys_created_on><sys_id>70b1f84c836f03103740a3d0deaad363</sys_id><sys_name>x_1862569_cmdb_a_0_request</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_dictionary_x_1862569_cmdb_a_0_request_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:13</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1149942417</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>8b95cdc4832343103740a3d0deaad3fb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff5659c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>CMDB Audit Engine Request</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>51b13c4c356f03100657b403670f9813</update_guid>
+<update_guid_history>51b13c4c356f03100657b403670f9813:-1149942417,01b1f84caf6f0310a201d5638ff676c4:-2079068686</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_33b1bc4c836f03103740a3d0deaad3bf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">ffb1bc4c836f03103740a3d0deaad3a1</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"CMDB Audit Engine Request","sourceType":"table","tableOrViewName":"x_1862569_cmdb_a_0_request","filterQuery":"active=false^closed_atBETWEENjavascript:gs.beginningOfLast30Days()@javascript:gs.endOfToday()","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwNjIxNDU=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Closed Last 30 Days","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwNjIxNDU=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGt3TmpJeE5EVT0xNzAwMTQ5MDYzMjQz","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"8x2fbils","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>33b1bc4c836f03103740a3d0deaad3bf</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_widget_33b1bc4c836f03103740a3d0deaad3bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:24</sys_updated_on><visualization/><w>16</w><widget_props/><x>32</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>1595942665</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>8f95cdc4832343103740a3d0deaad3f7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56cc30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>ffb1bc4cd46f03100218315d08b2b0c0</update_guid>
+<update_guid_history>ffb1bc4cd46f03100218315d08b2b0c0:1595942665</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_package_dependency_m2m_74b1f84c836f03103740a3d0deaad3b5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m"><sys_package_dependency_m2m action="INSERT_OR_UPDATE"><dependency display_value="Creator Studio" source="sn_creatorstudio">81ac5fe1c7442110408bc8d6f2c260d1</dependency><min_version>25.1.2</min_version><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:12</sys_created_on><sys_id>74b1f84c836f03103740a3d0deaad3b5</sys_id><sys_mod_count>1</sys_mod_count><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:29</sys_updated_on></sys_package_dependency_m2m></record_update>]]></payload>
+<payload_hash>-1660415945</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>8f95cdc4832343103740a3d0deaad3fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff564ce0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name>Creator Studio.CMDB Audit Engine</target_name>
+<type>Package dependency</type>
+<update_domain>global</update_domain>
+<update_guid>bf6589c4402343101fe19cc724edb94a</update_guid>
+<update_guid_history>bf6589c4402343101fe19cc724edb94a:-1660415945</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_x_1862569_cmdb_a_0_request_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1862569_cmdb_a_0_request" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_1862569_cmdb_a_0_request" element="NULL" name="x_1862569_cmdb_a_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fb17c4c836f03103740a3d0deaad37b</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:21</sys_created_on><sys_id>cbb17c4c836f03103740a3d0deaad37e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:21</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>priority</element><list_id display_value="x_1862569_cmdb_a_0_request" element="NULL" name="x_1862569_cmdb_a_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fb17c4c836f03103740a3d0deaad37b</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:21</sys_created_on><sys_id>4fb17c4c836f03103740a3d0deaad3bd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:21</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>state</element><list_id display_value="x_1862569_cmdb_a_0_request" element="NULL" name="x_1862569_cmdb_a_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fb17c4c836f03103740a3d0deaad37b</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:21</sys_created_on><sys_id>03b17c4c836f03103740a3d0deaad3be</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:21</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>assigned_to</element><list_id display_value="x_1862569_cmdb_a_0_request" element="NULL" name="x_1862569_cmdb_a_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fb17c4c836f03103740a3d0deaad37b</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:21</sys_created_on><sys_id>c3b17c4c836f03103740a3d0deaad3be</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:21</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>short_description</element><list_id display_value="x_1862569_cmdb_a_0_request" element="NULL" name="x_1862569_cmdb_a_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fb17c4c836f03103740a3d0deaad37b</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:21</sys_created_on><sys_id>87b17c4c836f03103740a3d0deaad3be</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:21</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_class_name</element><list_id display_value="x_1862569_cmdb_a_0_request" element="NULL" name="x_1862569_cmdb_a_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fb17c4c836f03103740a3d0deaad37b</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:21</sys_created_on><sys_id>4bb17c4c836f03103740a3d0deaad3be</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:21</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1862569_cmdb_a_0_request</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4fb17c4c836f03103740a3d0deaad37b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1862569_cmdb_a_0_request</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_ui_list_x_1862569_cmdb_a_0_request_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:21</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>-498071265</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>93954108832343103740a3d0deaad3cd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff568eb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>CMDB Audit Engine Request</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_applicability_m2m_list_07b17c4c836f03103740a3d0deaad3fe</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="CMDB Audit Engine Audience">0fb17c4c836f03103740a3d0deaad3c5</applicability><list display_value="Open">cbb17c4c836f03103740a3d0deaad3e5</list><order>0</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:22</sys_created_on><sys_id>07b17c4c836f03103740a3d0deaad3fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_07b17c4c836f03103740a3d0deaad3fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:22</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+<payload_hash>33423314</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>97954108832343103740a3d0deaad3ce</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff569740000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name/>
+<type>List Applicability</type>
+<update_domain>global</update_domain>
+<update_guid>9bb1bc4c126f031014c10354c15cc401</update_guid>
+<update_guid_history>9bb1bc4c126f031014c10354c15cc401:33423314</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_list_5bb1bc4c836f03103740a3d0deaad303</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list"><sys_ux_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="CMDB Audit Engine Requests">8fb17c4c836f03103740a3d0deaad3be</category><columns>number,priority,state,assigned_to,short_description,sys_class_name</columns><condition table="x_1862569_cmdb_a_0_request">active=true^assigned_toISEMPTY^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><configuration display_value="Creator Studio Workspace">ae8cff95779a311055f78f71ef5a99a6</configuration><enable_infinite_scroll>false</enable_infinite_scroll><fixed_query/><group_by_column/><groups/><hide_cell_filter>false</hide_cell_filter><hide_checkbox_hover>true</hide_checkbox_hover><hide_column_filtering>false</hide_column_filtering><hide_column_grouping>false</hide_column_grouping><hide_column_resizing>false</hide_column_resizing><hide_column_sorting>false</hide_column_sorting><hide_drag_and_drop>true</hide_drag_and_drop><hide_empty_state_image>false</hide_empty_state_image><hide_first_page>false</hide_first_page><hide_header>false</hide_header><hide_highlight_content>false</hide_highlight_content><hide_highlighted_values>false</hide_highlighted_values><hide_inline_editing>false</hide_inline_editing><hide_last_page>false</hide_last_page><hide_last_refreshed_text>false</hide_last_refreshed_text><hide_links>false</hide_links><hide_list_actions>false</hide_list_actions><hide_menu_button>false</hide_menu_button><hide_next_page>false</hide_next_page><hide_option_to_save_as>false</hide_option_to_save_as><hide_pages>false</hide_pages><hide_pagination>false</hide_pagination><hide_panel_advanced>false</hide_panel_advanced><hide_panel_button>false</hide_panel_button><hide_panel_condition_delete>false</hide_panel_condition_delete><hide_panel_footer>false</hide_panel_footer><hide_panel_restore>false</hide_panel_restore><hide_personalization>false</hide_personalization><hide_previous_page>false</hide_previous_page><hide_quick_edit>true</hide_quick_edit><hide_range>false</hide_range><hide_record_count_badge>false</hide_record_count_badge><hide_reference_links>false</hide_reference_links><hide_refresh_button>false</hide_refresh_button><hide_row_count>false</hide_row_count><hide_row_selector>false</hide_row_selector><hide_rows_per_page_selector>false</hide_rows_per_page_selector><hide_select_all>false</hide_select_all><hide_sharing_button>false</hide_sharing_button><hide_title>false</hide_title><highlight_content_color/><highlight_content_pattern/><list_attributes/><live_updates>off</live_updates><max_characters>4000</max_characters><order>200</order><override_word_wrap_user_pref>false</override_word_wrap_user_pref><roles/><sys_class_name>sys_ux_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5bb1bc4c836f03103740a3d0deaad303</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open - Unassigned</sys_name><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_ux_list_5bb1bc4c836f03103740a3d0deaad303</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:22</sys_updated_on><table>x_1862569_cmdb_a_0_request</table><title>Open - Unassigned</title><view/><word_wrap>false</word_wrap></sys_ux_list></record_update>]]></payload>
+<payload_hash>-36492551</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>9b954108832343103740a3d0deaad3cf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56a320000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>Open - Unassigned</target_name>
+<type>UX List</type>
+<update_domain>global</update_domain>
+<update_guid>97b1bc4cc66f031006ffcbc7c11f6f05</update_guid>
+<update_guid_history>97b1bc4cc66f031006ffcbc7c11f6f05:-36492551</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_12b17c4c836f03103740a3d0deaad315</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:18</sys_created_on><sys_id>12b17c4c836f03103740a3d0deaad315</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1862569_cmdb_a_0_request.x_1862569_cmdb_a_0.agent</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_security_acl display_value="x_1862569_cmdb_a_0_request">52b17c4c836f03103740a3d0deaad30c</sys_security_acl><sys_update_name>sys_security_acl_role_12b17c4c836f03103740a3d0deaad315</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:18</sys_updated_on><sys_user_role display_value="x_1862569_cmdb_a_0.agent" name="x_1862569_cmdb_a_0.agent">82b13c4c836f03103740a3d0deaad3e7</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1803035292</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>9f954108832343103740a3d0deaad3cb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff565ff0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>x_1862569_cmdb_a_0_request.x_1862569_cmdb_a_0.agent</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>a2b17c4c1b6f0310491eece9ef108935</update_guid>
+<update_guid_history>a2b17c4c1b6f0310491eece9ef108935:-1803035292</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_list_cbb17c4c836f03103740a3d0deaad3e5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list"><sys_ux_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="CMDB Audit Engine Requests">8fb17c4c836f03103740a3d0deaad3be</category><columns>number,priority,state,assigned_to,short_description,sys_class_name</columns><condition table="x_1862569_cmdb_a_0_request">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><configuration display_value="Creator Studio Workspace">ae8cff95779a311055f78f71ef5a99a6</configuration><enable_infinite_scroll>false</enable_infinite_scroll><fixed_query/><group_by_column/><groups/><hide_cell_filter>false</hide_cell_filter><hide_checkbox_hover>true</hide_checkbox_hover><hide_column_filtering>false</hide_column_filtering><hide_column_grouping>false</hide_column_grouping><hide_column_resizing>false</hide_column_resizing><hide_column_sorting>false</hide_column_sorting><hide_drag_and_drop>true</hide_drag_and_drop><hide_empty_state_image>false</hide_empty_state_image><hide_first_page>false</hide_first_page><hide_header>false</hide_header><hide_highlight_content>false</hide_highlight_content><hide_highlighted_values>false</hide_highlighted_values><hide_inline_editing>false</hide_inline_editing><hide_last_page>false</hide_last_page><hide_last_refreshed_text>false</hide_last_refreshed_text><hide_links>false</hide_links><hide_list_actions>false</hide_list_actions><hide_menu_button>false</hide_menu_button><hide_next_page>false</hide_next_page><hide_option_to_save_as>false</hide_option_to_save_as><hide_pages>false</hide_pages><hide_pagination>false</hide_pagination><hide_panel_advanced>false</hide_panel_advanced><hide_panel_button>false</hide_panel_button><hide_panel_condition_delete>false</hide_panel_condition_delete><hide_panel_footer>false</hide_panel_footer><hide_panel_restore>false</hide_panel_restore><hide_personalization>false</hide_personalization><hide_previous_page>false</hide_previous_page><hide_quick_edit>true</hide_quick_edit><hide_range>false</hide_range><hide_record_count_badge>false</hide_record_count_badge><hide_reference_links>false</hide_reference_links><hide_refresh_button>false</hide_refresh_button><hide_row_count>false</hide_row_count><hide_row_selector>false</hide_row_selector><hide_rows_per_page_selector>false</hide_rows_per_page_selector><hide_select_all>false</hide_select_all><hide_sharing_button>false</hide_sharing_button><hide_title>false</hide_title><highlight_content_color/><highlight_content_pattern/><list_attributes/><live_updates>off</live_updates><max_characters>4000</max_characters><order>100</order><override_word_wrap_user_pref>false</override_word_wrap_user_pref><roles/><sys_class_name>sys_ux_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cbb17c4c836f03103740a3d0deaad3e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open</sys_name><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_ux_list_cbb17c4c836f03103740a3d0deaad3e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:21</sys_updated_on><table>x_1862569_cmdb_a_0_request</table><title>Open</title><view/><word_wrap>false</word_wrap></sys_ux_list></record_update>]]></payload>
+<payload_hash>366172679</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>9f954108832343103740a3d0deaad3d0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff569580000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>Open</target_name>
+<type>UX List</type>
+<update_domain>global</update_domain>
+<update_guid>c7b17c4c7a6f0310119c5bcc63f826fc</update_guid>
+<update_guid_history>c7b17c4c7a6f0310119c5bcc63f826fc:366172679</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_73b1bc4c836f03103740a3d0deaad3ac</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="DELETE"><canvas display_value="">ffb1bc4c836f03103740a3d0deaad3a1</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"CMDB Audit Engine Request","sourceType":"table","tableOrViewName":"x_1862569_cmdb_a_0_request","filterQuery":"active=true^assigned_toISEMPTY","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwMTkxOTM=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unassigned Open Requests","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwMTkxOTM=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGt3TVRreE9UTT0xNzAwMTQ5MDIwMzA2","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"dee19bvq","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>73b1bc4c836f03103740a3d0deaad3ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_widget_73b1bc4c836f03103740a3d0deaad3ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:24</sys_updated_on><visualization/><w>16</w><widget_props/><x>16</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>-1909177588</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>c395cdc4832343103740a3d0deaad3f8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56dfa0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>6cc1fc4c7c6f031074272203b13ede4e</update_guid>
+<update_guid_history>6cc1fc4c7c6f031074272203b13ede4e:-1909177588,33b1bc4c766f0310c40d23d1591e9aae:-1687697664</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_f3b1bc4c836f03103740a3d0deaad3b3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="DELETE"><canvas display_value="">ffb1bc4c836f03103740a3d0deaad3a1</canvas><component display_value="List">7ff373544303121093711347efb8f23c</component><component_props>{"dataSources":[{"allowRealTime":true,"dataCategories":["trend","group","simple"],"filterQuery":"active=true^active=true","id":"50c1fc4c836f03103740a3d0deaad336","isDatabaseView":false,"preferredVisualizations":[],"sourceType":"table","tableOrViewName":"x_1862569_cmdb_a_0_request"}],"additionalGroupByConfig":[],"allowAdditionalGroupByPerMetric":false,"componentId":"","contextMenuActions":[],"description":"","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","headingLevel":2,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showAdditionalGroupBySelector":false,"showFilterIcon":true,"showHeaderSeparator":false,"showHeader":true,"showLoadingIndicator":false,"wrapTitle":false,"parFilter":"","parFilterConfig":[],"allowListPagination":true,"columnLimit":0,"limit":10,"maxCharLimit":4000,"columnPreferenceKey":"","bareBorder":false,"wrapCellContent":"useLineBreaksUserPref","showPersonalization":true,"hideDotwalk":false,"showColumnReorder":true,"showColumnGrouping":true,"showColumnResizing":true,"showColumnFiltering":true,"showColumnSorting":true,"followFilters":true,"groupByField":"","showLinks":true,"showViewAll":true,"showInlineEditing":true,"table":"x_1862569_cmdb_a_0_request","headerTitle":"All Active Tasks","columns":"","showRecordCount":true}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f3b1bc4c836f03103740a3d0deaad3b3</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_widget_f3b1bc4c836f03103740a3d0deaad3b3</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-09-20 16:29:27</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>-1824013550</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>c795cdc4832343103740a3d0deaad3f9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56e310000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>7cc1fc4c896f03106753550fdd1d1a93</update_guid>
+<update_guid_history>7cc1fc4c896f03106753550fdd1d1a93:-1824013550,64c1fc4c166f0310d5b56eab6f952839:-1309585506,37b1bc4cc06f03100cb38a78d7be5bb5:-1017688832</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_af0ab4cc83af03103740a3d0deaad3fd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 17:05:42</sys_created_on><sys_id>af0ab4cc83af03103740a3d0deaad3fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GlideRecord.insert</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_scope_privilege_af0ab4cc83af03103740a3d0deaad3fd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 17:05:42</sys_updated_on><target_name>GlideRecord.insert</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>510318603</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>cb954108832343103740a3d0deaad3c9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff570620000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name>GlideRecord.insert</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>e70af4ccfeaf0310d0f6f918d7c0d163</update_guid>
+<update_guid_history>e70af4ccfeaf0310d0f6f918d7c0d163:510318603</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_ffb1bc4c836f03103740a3d0deaad3a1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="CMDB Audit Engine Requests">ebb1bc4c836f03103740a3d0deaad331</dashboard><dashboard_tab display_value="Tab">bbb1bc4c836f03103740a3d0deaad36a</dashboard_tab><layout>[{"sys_id":"33b1bc4c836f03103740a3d0deaad3bf","x":32,"y":3,"w":16,"h":12,"component_id":"d24d53f60350de7a652caf3188a46ed2","component_props":"{\"configVersion\":\"23.0.0-ci-SNAPSHOT\",\"scoreSize\":\"md\",\"headingPosition\":\"top\",\"sparklineStyle\":\"area\",\"iconStyle\":\"background\",\"showScoreDate\":false,\"useRelativeScoreTime\":false,\"showScoreUpdateTime\":false,\"showZero\":true,\"colorConfig\":{\"type\":\"default\"},\"newReporting\":false,\"dataSources\":[{\"isDatabaseView\":false,\"allowRealTime\":true,\"label\":\"CMDB Audit Engine Request\",\"sourceType\":\"table\",\"tableOrViewName\":\"x_1862569_cmdb_a_0_request\",\"filterQuery\":\"active=false^closed_atBETWEENjavascript:gs.beginningOfLast30Days()@javascript:gs.endOfToday()\",\"preferredVisualizations\":[\"d24d53f60350de7a652caf3188a46ed2\"],\"id\":\"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwNjIxNDU=\",\"dataCategories\":[\"trend\",\"group\",\"simple\"]}],\"showHeader\":true,\"showTotalAggregate\":false,\"showSubAggregate\":false,\"showFirstGroupAggregate\":false,\"showSecondGroupAggregate\":false,\"hideMatrixAggregate\":false,\"wrapTitle\":false,\"showHeaderSeparator\":false,\"headerTitle\":\"Closed Last 30 Days\",\"headingLevel\":2,\"showBorder\":true,\"bareBorder\":false,\"showDataPassthrough\":false,\"showAdditionalGroupBySelector\":false,\"metrics\":[{\"dataSource\":\"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwNjIxNDU=\",\"id\":\"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGt3TmpJeE5EVT0xNzAwMTQ5MDYzMjQz\",\"aggregateFunction\":\"COUNT\",\"numberFormat\":{\"customFormat\":false},\"axisId\":\"primary\"}],\"sortByOrder\":\"desc\",\"showChange\":false,\"showChangePercentage\":false,\"showTarget\":false,\"showForecast\":false,\"showForecastRange\":false,\"showTrend\":false,\"showConfidenceBand\":false,\"showGapPercentage\":false,\"showSparkline\":false,\"showMetricLabel\":false,\"showThreshold\":false,\"showComment\":false,\"followFilters\":true,\"showFilterIcon\":true,\"enableRealTimeUpdate\":false,\"enableDrilldown\":true,\"enableClickAndStay\":false,\"enableCustomEmptyState\":false,\"componentId\":\"8x2fbils\",\"emptyStateIllustration\":\"no-data\",\"emptyStateHeading\":\"No data available.\",\"emptyStateContent\":\"There are no scores available for the selected criteria. Contact your admin for more info.\",\"emptyStateAlignment\":\"vertical-centered\",\"hideDevSettings\":false,\"filterConfigurations\":\"@state.parFilters\",\"showMaximumRange\":false,\"allowChangeDateRange\":false,\"showDateRangeByDefault\":false,\"applyDateRange\":false,\"numberOfPeriods\":3,\"showAbsolutePeriod\":false,\"showChangeFrom\":false,\"period\":\"M\",\"dateFormat\":\"default\",\"userInfo\":\"@context.session.user\",\"enableAddZerosAtApi\":true,\"emptyStateHeadingLevel\":3,\"cacheExpirationTime\":0,\"showLoadingIndicator\":false,\"useDataCache\":false,\"showFilterAsSeparateSeries\":false,\"showCacheTime\":true,\"allowAdditionalGroupByPerMetric\":false,\"showDataTable\":false,\"lineClamp\":1,\"showRefresh\":true,\"useCurrentDateForEnd\":false,\"wrapElements\":false}","can_edit":true},{"sys_id":"7bb1bc4c836f03103740a3d0deaad3c2","x":0,"y":15,"w":48,"h":20,"component_id":"7ff373544303121093711347efb8f23c","component_props":"{\"dataSources\":[{\"allowRealTime\":true,\"dataCategories\":[\"trend\",\"group\",\"simple\"],\"filterQuery\":\"active=true^active=true\",\"id\":\"d0c1fc4c836f03103740a3d0deaad328\",\"isDatabaseView\":false,\"sourceType\":\"table\",\"tableOrViewName\":\"x_1862569_cmdb_a_0_request\"}],\"allowAdditionalGroupByPerMetric\":false,\"emptyStateAlignment\":\"vertical-centered\",\"emptyStateContent\":\"There are no scores available for the selected criteria. Contact your admin for more info.\",\"emptyStateHeading\":\"No data available.\",\"emptyStateHeadingLevel\":3,\"emptyStateIllustration\":\"no-data\",\"enableCustomEmptyState\":false,\"enableDrilldown\":true,\"enableRealTimeUpdate\":false,\"filterConfigurations\":\"@state.parFilters\",\"headingLevel\":2,\"metrics\":[{\"aggregateFunction\":\"COUNT\",\"axisId\":\"primary\",\"dataSource\":\"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=\",\"id\":\"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==\",\"numberFormat\":{\"customFormat\":false}}],\"showAdditionalGroupBySelector\":false,\"showFilterIcon\":true,\"showHeaderSeparator\":false,\"showHeader\":true,\"showLoadingIndicator\":false,\"wrapTitle\":false,\"allowListPagination\":true,\"columnLimit\":0,\"limit\":10,\"maxCharLimit\":4000,\"bareBorder\":false,\"wrapCellContent\":\"useLineBreaksUserPref\",\"showPersonalization\":true,\"hideDotwalk\":false,\"showColumnReorder\":true,\"showColumnGrouping\":true,\"showColumnResizing\":true,\"showColumnFiltering\":true,\"showColumnSorting\":true,\"followFilters\":true,\"showLinks\":true,\"showViewAll\":true,\"showInlineEditing\":true,\"table\":\"x_1862569_cmdb_a_0_request\",\"headerTitle\":\"All Active Tasks\",\"showRecordCount\":true,\"sortByOrder\":\"ORDERBY\",\"lineClamp\":1,\"showBorder\":true}","can_edit":true},{"sys_id":"bfb1bc4c836f03103740a3d0deaad3b7","x":0,"y":3,"w":16,"h":12,"component_id":"d24d53f60350de7a652caf3188a46ed2","component_props":"{\"configVersion\":\"23.0.0-ci-SNAPSHOT\",\"scoreSize\":\"md\",\"headingPosition\":\"top\",\"sparklineStyle\":\"area\",\"iconStyle\":\"background\",\"showScoreDate\":false,\"useRelativeScoreTime\":false,\"showScoreUpdateTime\":false,\"showZero\":true,\"colorConfig\":{\"type\":\"default\"},\"newReporting\":false,\"dataSources\":[{\"isDatabaseView\":false,\"allowRealTime\":true,\"label\":\"CMDB Audit Engine Request\",\"sourceType\":\"table\",\"tableOrViewName\":\"x_1862569_cmdb_a_0_request\",\"filterQuery\":\"active=true\",\"preferredVisualizations\":[\"d24d53f60350de7a652caf3188a46ed2\"],\"id\":\"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=\",\"dataCategories\":[\"trend\",\"group\",\"simple\"]}],\"showHeader\":true,\"showTotalAggregate\":false,\"showSubAggregate\":false,\"showFirstGroupAggregate\":false,\"showSecondGroupAggregate\":false,\"hideMatrixAggregate\":false,\"wrapTitle\":false,\"showHeaderSeparator\":false,\"headerTitle\":\"Open Requests\",\"headingLevel\":2,\"showBorder\":true,\"bareBorder\":false,\"showDataPassthrough\":false,\"showAdditionalGroupBySelector\":false,\"metrics\":[{\"dataSource\":\"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=\",\"id\":\"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGc1TVRjNU1UWT0xNzAwMTQ4OTE5MDAz\",\"aggregateFunction\":\"COUNT\",\"numberFormat\":{\"customFormat\":false},\"axisId\":\"primary\"}],\"sortByOrder\":\"desc\",\"showChange\":false,\"showChangePercentage\":false,\"showTarget\":false,\"showForecast\":false,\"showForecastRange\":false,\"showTrend\":false,\"showConfidenceBand\":false,\"showGapPercentage\":false,\"showSparkline\":false,\"showMetricLabel\":false,\"showThreshold\":false,\"showComment\":false,\"followFilters\":true,\"showFilterIcon\":true,\"enableRealTimeUpdate\":false,\"enableDrilldown\":true,\"enableClickAndStay\":false,\"enableCustomEmptyState\":false,\"componentId\":\"a6ukoq1r\",\"emptyStateIllustration\":\"no-data\",\"emptyStateHeading\":\"No data available.\",\"emptyStateContent\":\"There are no scores available for the selected criteria. Contact your admin for more info.\",\"emptyStateAlignment\":\"vertical-centered\",\"hideDevSettings\":false,\"filterConfigurations\":\"@state.parFilters\",\"showMaximumRange\":false,\"allowChangeDateRange\":false,\"showDateRangeByDefault\":false,\"applyDateRange\":false,\"numberOfPeriods\":3,\"showAbsolutePeriod\":false,\"showChangeFrom\":false,\"period\":\"M\",\"dateFormat\":\"default\",\"userInfo\":\"@context.session.user\",\"enableAddZerosAtApi\":true,\"emptyStateHeadingLevel\":3,\"cacheExpirationTime\":0,\"showLoadingIndicator\":false,\"useDataCache\":false,\"showFilterAsSeparateSeries\":false,\"showCacheTime\":true,\"allowAdditionalGroupByPerMetric\":false,\"showDataTable\":false,\"lineClamp\":1,\"showRefresh\":true,\"useCurrentDateForEnd\":false,\"wrapElements\":false}","can_edit":true},{"sys_id":"f7b1bc4c836f03103740a3d0deaad3bb","x":16,"y":3,"w":16,"h":12,"component_id":"d24d53f60350de7a652caf3188a46ed2","component_props":"{\"configVersion\":\"23.0.0-ci-SNAPSHOT\",\"scoreSize\":\"md\",\"headingPosition\":\"top\",\"sparklineStyle\":\"area\",\"iconStyle\":\"background\",\"showScoreDate\":false,\"useRelativeScoreTime\":false,\"showScoreUpdateTime\":false,\"showZero\":true,\"colorConfig\":{\"type\":\"default\"},\"newReporting\":false,\"dataSources\":[{\"isDatabaseView\":false,\"allowRealTime\":true,\"label\":\"CMDB Audit Engine Request\",\"sourceType\":\"table\",\"tableOrViewName\":\"x_1862569_cmdb_a_0_request\",\"filterQuery\":\"active=true^assigned_toISEMPTY\",\"preferredVisualizations\":[\"d24d53f60350de7a652caf3188a46ed2\"],\"id\":\"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwMTkxOTM=\",\"dataCategories\":[\"trend\",\"group\",\"simple\"]}],\"showHeader\":true,\"showTotalAggregate\":false,\"showSubAggregate\":false,\"showFirstGroupAggregate\":false,\"showSecondGroupAggregate\":false,\"hideMatrixAggregate\":false,\"wrapTitle\":false,\"showHeaderSeparator\":false,\"headerTitle\":\"Unassigned Open Requests\",\"headingLevel\":2,\"showBorder\":true,\"bareBorder\":false,\"showDataPassthrough\":false,\"showAdditionalGroupBySelector\":false,\"metrics\":[{\"dataSource\":\"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwMTkxOTM=\",\"id\":\"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGt3TVRreE9UTT0xNzAwMTQ5MDIwMzA2\",\"aggregateFunction\":\"COUNT\",\"numberFormat\":{\"customFormat\":false},\"axisId\":\"primary\"}],\"sortByOrder\":\"desc\",\"showChange\":false,\"showChangePercentage\":false,\"showTarget\":false,\"showForecast\":false,\"showForecastRange\":false,\"showTrend\":false,\"showConfidenceBand\":false,\"showGapPercentage\":false,\"showSparkline\":false,\"showMetricLabel\":false,\"showThreshold\":false,\"showComment\":false,\"followFilters\":true,\"showFilterIcon\":true,\"enableRealTimeUpdate\":false,\"enableDrilldown\":true,\"enableClickAndStay\":false,\"enableCustomEmptyState\":false,\"componentId\":\"dee19bvq\",\"emptyStateIllustration\":\"no-data\",\"emptyStateHeading\":\"No data available.\",\"emptyStateContent\":\"There are no scores available for the selected criteria. Contact your admin for more info.\",\"emptyStateAlignment\":\"vertical-centered\",\"hideDevSettings\":false,\"filterConfigurations\":\"@state.parFilters\",\"showMaximumRange\":false,\"allowChangeDateRange\":false,\"showDateRangeByDefault\":false,\"applyDateRange\":false,\"numberOfPeriods\":3,\"showAbsolutePeriod\":false,\"showChangeFrom\":false,\"period\":\"M\",\"dateFormat\":\"default\",\"userInfo\":\"@context.session.user\",\"enableAddZerosAtApi\":true,\"emptyStateHeadingLevel\":3,\"cacheExpirationTime\":0,\"showLoadingIndicator\":false,\"useDataCache\":false,\"showFilterAsSeparateSeries\":false,\"showCacheTime\":true,\"allowAdditionalGroupByPerMetric\":false,\"showDataTable\":false,\"lineClamp\":1,\"showRefresh\":true,\"useCurrentDateForEnd\":false,\"wrapElements\":false}","can_edit":true}]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ffb1bc4c836f03103740a3d0deaad3a1</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_canvas_ffb1bc4c836f03103740a3d0deaad3a1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:28</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>1264760403</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>cb95cdc4832343103740a3d0deaad3f5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56e790000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>f0c1fc4c236f0310de814093dae66fb1</update_guid>
+<update_guid_history>f0c1fc4c236f0310de814093dae66fb1:1264760403,73b1bc4cdf6f0310d93fe7e6a138e9a4:-567968503</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sysauto_script_5c94700483af03103740a3d0deaad3e3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sysauto_script"&gt;&lt;sysauto_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;business_calendar/&gt;&lt;condition/&gt;&lt;conditional&gt;false&lt;/conditional&gt;&lt;entered_run_end/&gt;&lt;entered_run_start/&gt;&lt;entered_time&gt;1970-01-01 00:00:00&lt;/entered_time&gt;&lt;max_drift/&gt;&lt;name&gt;Nightly CMDB Duplicate Audit&lt;/name&gt;&lt;offset/&gt;&lt;offset_type&gt;0&lt;/offset_type&gt;&lt;repeat_every/&gt;&lt;run_as display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/run_as&gt;&lt;run_as_tz/&gt;&lt;run_dayofmonth&gt;1&lt;/run_dayofmonth&gt;&lt;run_dayofweek&gt;1&lt;/run_dayofweek&gt;&lt;run_daysofweek/&gt;&lt;run_end/&gt;&lt;run_month&gt;1&lt;/run_month&gt;&lt;run_period/&gt;&lt;run_start&gt;2026-09-20 16:41:43&lt;/run_start&gt;&lt;run_time&gt;1970-01-01 10:00:00&lt;/run_time&gt;&lt;run_type&gt;daily&lt;/run_type&gt;&lt;run_weekinmonth&gt;1&lt;/run_weekinmonth&gt;&lt;script&gt;&lt;![CDATA[var audit = new x_1862569_cmdb_a_0.CMDBCleanupUtils();
+audit.findDuplicateSerialNumbers();]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sysauto_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-20 16:43:58&lt;/sys_created_on&gt;&lt;sys_id&gt;5c94700483af03103740a3d0deaad3e3&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Nightly CMDB Duplicate Audit&lt;/sys_name&gt;&lt;sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0"&gt;dcb1b84c836f03103740a3d0deaad3fe&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CMDB Audit Engine"&gt;dcb1b84c836f03103740a3d0deaad3fe&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysauto_script_5c94700483af03103740a3d0deaad3e3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-20 16:45:08&lt;/sys_updated_on&gt;&lt;time_zone/&gt;&lt;upgrade_safe&gt;false&lt;/upgrade_safe&gt;&lt;/sysauto_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1965745787</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>cb95cdc4832343103740a3d0deaad3fa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff5702e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name>Nightly CMDB Duplicate Audit</target_name>
+<type>Scheduled Script Execution</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_tab_bbb1bc4c836f03103740a3d0deaad36a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><background_color/><dashboard display_value="CMDB Audit Engine Requests">ebb1bc4c836f03103740a3d0deaad331</dashboard><name>Tab</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bbb1bc4c836f03103740a3d0deaad36a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tab</sys_name><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_tab_bbb1bc4c836f03103740a3d0deaad36a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:24</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+<payload_hash>387339867</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>cf95cdc4832343103740a3d0deaad3f6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56cf80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name>Tab</target_name>
+<type>PAR Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>33b1bc4ce46f0310c62b1bba5d382ea0</update_guid>
+<update_guid_history>33b1bc4ce46f0310c62b1bba5d382ea0:387339867</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_1862569_cmdb_a_0_request__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="CMDB Audit Engine Request" language="en" table="x_1862569_cmdb_a_0_request"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>CMDB Audit Engine Request</label><language>en</language><name>x_1862569_cmdb_a_0_request</name><plural>CMDB Audit Engine Requests</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:12</sys_created_on><sys_id>f8b1f84c836f03103740a3d0deaad3a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CMDB Audit Engine Request</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_documentation_x_1862569_cmdb_a_0_request__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:12</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-2012846997</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>cf95cdc4832343103740a3d0deaad3fb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff5657c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>CMDB Audit Engine Request</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_6ab17c4c836f03103740a3d0deaad33c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:19</sys_created_on><sys_id>6ab17c4c836f03103740a3d0deaad33c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1862569_cmdb_a_0_request.x_1862569_cmdb_a_0.agent</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_security_acl display_value="x_1862569_cmdb_a_0_request">2ab17c4c836f03103740a3d0deaad337</sys_security_acl><sys_update_name>sys_security_acl_role_6ab17c4c836f03103740a3d0deaad33c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:19</sys_updated_on><sys_user_role display_value="x_1862569_cmdb_a_0.agent" name="x_1862569_cmdb_a_0.agent">82b13c4c836f03103740a3d0deaad3e7</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-315707903</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>d3954108832343103740a3d0deaad3cc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff5668f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>x_1862569_cmdb_a_0_request.x_1862569_cmdb_a_0.agent</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>6ab17c4c026f03107f95a15b9d437240</update_guid>
+<update_guid_history>6ab17c4c026f03107f95a15b9d437240:-315707903</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_wizard_answer_6cb1f84c836f03103740a3d0deaad35f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>CMDB Audit Engine Request</answer><button_label/><dependent_value/><element/><name>CMDB Audit Engine Request</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">b84e9d04a56103108bb220b7a4d21278</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:11</sys_created_on><sys_id>6cb1f84c836f03103740a3d0deaad35f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CMDB Audit Engine Request</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_wizard_answer_6cb1f84c836f03103740a3d0deaad35f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:11</sys_updated_on><table/><target_url>x_1862569_cmdb_a_0_request.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+<payload_hash>1862279709</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>d3954108832343103740a3d0deaad3d1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff565510000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name>CMDB Audit Engine Request</target_name>
+<type>Answer</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_82b13c4c836f03103740a3d0deaad3e7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Provides access to CMDB Audit Engine Request</description><elevated_privilege>false</elevated_privilege><federated_id>pr9CZED4/Hb7l86SkOvElmXTGyfbyyUg4VygGYZ7D1Q=</federated_id><grantable>true</grantable><includes_roles/><name>x_1862569_cmdb_a_0.agent</name><scoped_admin>false</scoped_admin><suffix>agent</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:17</sys_created_on><sys_id>82b13c4c836f03103740a3d0deaad3e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1862569_cmdb_a_0.agent</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_user_role_82b13c4c836f03103740a3d0deaad3e7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:17</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>1485115917</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>d7954108832343103740a3d0deaad3cd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff565e70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name>x_1862569_cmdb_a_0.agent</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>82b17c4c606f03105675539cabf9a30a</update_guid>
+<update_guid_history>82b17c4c606f03105675539cabf9a30a:243806251</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_applicability_m2m_list_13b1bc4c836f03103740a3d0deaad307</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="CMDB Audit Engine Audience">0fb17c4c836f03103740a3d0deaad3c5</applicability><list display_value="Open - Unassigned">5bb1bc4c836f03103740a3d0deaad303</list><order>0</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:22</sys_created_on><sys_id>13b1bc4c836f03103740a3d0deaad307</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_13b1bc4c836f03103740a3d0deaad307</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:22</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+<payload_hash>725387428</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>db954108832343103740a3d0deaad3ce</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff569960000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table/>
+<target_name/>
+<type>List Applicability</type>
+<update_domain>global</update_domain>
+<update_guid>93b1bc4c006f0310de60db2552a91c15</update_guid>
+<update_guid_history>93b1bc4c006f0310de60db2552a91c15:725387428</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_52b17c4c836f03103740a3d0deaad30c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_1862569_cmdb_a_0_request</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:18</sys_created_on><sys_id>52b17c4c836f03103740a3d0deaad30c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1862569_cmdb_a_0_request</sys_name><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_security_acl_52b17c4c836f03103740a3d0deaad30c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:18</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-853243186</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>df954108832343103740a3d0deaad3ca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff566230000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>x_1862569_cmdb_a_0_request</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>d2b17c4c0f6f0310e60ca01be7ce6413</update_guid>
+<update_guid_history>d2b17c4c0f6f0310e60ca01be7ce6413:-853243186</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_list_9bb1bc4c836f03103740a3d0deaad31d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list"><sys_ux_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="CMDB Audit Engine Requests">8fb17c4c836f03103740a3d0deaad3be</category><columns>number,priority,state,assigned_to,short_description,sys_class_name</columns><condition/><configuration display_value="Creator Studio Workspace">ae8cff95779a311055f78f71ef5a99a6</configuration><enable_infinite_scroll>false</enable_infinite_scroll><fixed_query/><group_by_column/><groups/><hide_cell_filter>false</hide_cell_filter><hide_checkbox_hover>true</hide_checkbox_hover><hide_column_filtering>false</hide_column_filtering><hide_column_grouping>false</hide_column_grouping><hide_column_resizing>false</hide_column_resizing><hide_column_sorting>false</hide_column_sorting><hide_drag_and_drop>true</hide_drag_and_drop><hide_empty_state_image>false</hide_empty_state_image><hide_first_page>false</hide_first_page><hide_header>false</hide_header><hide_highlight_content>false</hide_highlight_content><hide_highlighted_values>false</hide_highlighted_values><hide_inline_editing>false</hide_inline_editing><hide_last_page>false</hide_last_page><hide_last_refreshed_text>false</hide_last_refreshed_text><hide_links>false</hide_links><hide_list_actions>false</hide_list_actions><hide_menu_button>false</hide_menu_button><hide_next_page>false</hide_next_page><hide_option_to_save_as>false</hide_option_to_save_as><hide_pages>false</hide_pages><hide_pagination>false</hide_pagination><hide_panel_advanced>false</hide_panel_advanced><hide_panel_button>false</hide_panel_button><hide_panel_condition_delete>false</hide_panel_condition_delete><hide_panel_footer>false</hide_panel_footer><hide_panel_restore>false</hide_panel_restore><hide_personalization>false</hide_personalization><hide_previous_page>false</hide_previous_page><hide_quick_edit>true</hide_quick_edit><hide_range>false</hide_range><hide_record_count_badge>false</hide_record_count_badge><hide_reference_links>false</hide_reference_links><hide_refresh_button>false</hide_refresh_button><hide_row_count>false</hide_row_count><hide_row_selector>false</hide_row_selector><hide_rows_per_page_selector>false</hide_rows_per_page_selector><hide_select_all>false</hide_select_all><hide_sharing_button>false</hide_sharing_button><hide_title>false</hide_title><highlight_content_color/><highlight_content_pattern/><list_attributes/><live_updates>off</live_updates><max_characters>4000</max_characters><order>400</order><override_word_wrap_user_pref>false</override_word_wrap_user_pref><roles/><sys_class_name>sys_ux_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9bb1bc4c836f03103740a3d0deaad31d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>sys_ux_list_9bb1bc4c836f03103740a3d0deaad31d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:22</sys_updated_on><table>x_1862569_cmdb_a_0_request</table><title>All</title><view/><word_wrap>false</word_wrap></sys_ux_list></record_update>]]></payload>
+<payload_hash>1960653104</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:12</sys_created_on>
+<sys_id>df954108832343103740a3d0deaad3cf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56a520000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:12</sys_updated_on>
+<table>x_1862569_cmdb_a_0_request</table>
+<target_name>All</target_name>
+<type>UX List</type>
+<update_domain>global</update_domain>
+<update_guid>d7b1bc4c366f03108a09953dd022891f</update_guid>
+<update_guid_history>d7b1bc4c366f03108a09953dd022891f:1960653104</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_23b1bc4c836f03103740a3d0deaad365</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="CMDB Audit Engine Requests">ebb1bc4c836f03103740a3d0deaad331</dashboard><dashboard_tab/><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-20 16:29:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>23b1bc4c836f03103740a3d0deaad365</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CMDB Audit Engine" source="x_1862569_cmdb_a_0">dcb1b84c836f03103740a3d0deaad3fe</sys_package><sys_policy/><sys_scope display_value="CMDB Audit Engine">dcb1b84c836f03103740a3d0deaad3fe</sys_scope><sys_update_name>par_dashboard_canvas_23b1bc4c836f03103740a3d0deaad365</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-20 16:29:23</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>-1806708986</payload_hash>
+<remote_update_set display_value="CMDB Audit Engine">b295cdc4832343103740a3d0deaad3f4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 17:56:11</sys_created_on>
+<sys_id>fa95cdc4832343103740a3d0deaad3f4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0bff56b490000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 17:56:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>27b1bc4c8b6f031034285ea38d46c968</update_guid>
+<update_guid_history>27b1bc4c8b6f031034285ea38d46c968:-1806708986</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
